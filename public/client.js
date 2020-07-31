@@ -3,9 +3,9 @@
 
     var Botkit = {
       config: {
-       // ws_url: (location.protocol === 'https:' ? 'wss' : 'ws') + '://' + location.host,
+        ws_url: (location.protocol === 'https:' ? 'wss' : 'ws') + '://' + location.host,
        // ws_url: 'wss://clientapp.narola.online:1093',
-        ws_url: 'ws://localhost:3000',
+       // ws_url: 'ws://localhost:3000',
         reconnect_timeout: 3000,
         max_reconnect: 5
       },
