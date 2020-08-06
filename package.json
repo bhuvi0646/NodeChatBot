@@ -22,7 +22,7 @@
     "https-proxy-agent": "^5.0.0",
     "lodash": "^4.17.19",
     "minimist": "^1.2.5",
-    "mongoose": "^4.13.21",
+    "mongoose": "^5.7.5",
     "mpath": "^0.7.0",
     "node-env-file": "^0.1.8",
     "querystring": "^0.2.0",
